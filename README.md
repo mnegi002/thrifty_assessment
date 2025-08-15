@@ -1,6 +1,6 @@
 # Assessment Tasks
 
-This repository contains two tasks demonstrating different functionalities using Node.js, Express, MongoDB, and React.
+This repository contains three tasks demonstrating different functionalities using Node.js, Express, MongoDB, and React and one DSA using Python.
 
 ---
 
